@@ -1,0 +1,1201 @@
+Part 1: 55920211035878
+===== This is bdk: =====
+"orexp21" (bdk)
+or
+	"and21" (fvf)
+	"andexp20" (crb)
+===== This is bfj: =====
+"xor32" (bfj)
+xor
+	"x32" (x32)
+	"y32" (y32)
+===== This is bgk: =====
+"andexp30" (bgk)
+and
+	"xor31" (kqt)
+	"orexp30" (nmr)
+===== This is bjh: =====
+"orexp36" (bjh)
+or
+	"and36" (vfw)
+	"andexp35" (nqq)
+===== This is bmw: =====
+"xor26" (bmw)
+xor
+	"x26" (x26)
+	"y26" (y26)
+===== This is bqd: =====
+"and20" (bqd)
+and
+	"x20" (x20)
+	"y20" (y20)
+===== This is bqj: =====
+"and37" (bqj)
+and
+	"x37" (x37)
+	"y37" (y37)
+===== This is btb: =====
+"xor38" (btb)
+xor
+	"x38" (x38)
+	"y38" (y38)
+===== This is btr: =====
+"xor07" (btr)
+xor
+	"x07" (x07)
+	"y07" (y07)
+===== This is bvm: =====
+"and14" (bvm)
+and
+	"x14" (x14)
+	"y14" (y14)
+===== This is bwp: =====
+"orexp20" (bwp)
+or
+	"and20" (bqd)
+	"andexp19" (fns)
+===== This is cfd: =====
+"xor08" (cfd)
+xor
+	"x08" (x08)
+	"y08" (y08)
+===== This is ckr: =====
+"xor20" (ckr)
+xor
+	"x20" (x20)
+	"y20" (y20)
+===== This is cmv: =====
+"z17" (cmv)
+xor
+	"xor17" (wvj)
+	"orexp16" (qwg)
+===== This is cpc: =====
+"xor27" (cpc)
+xor
+	"x27" (x27)
+	"y27" (y27)
+===== This is crb: =====
+"andexp20" (crb)
+and
+	"xor21" (jkg)
+	"orexp20" (bwp)
+===== This is ctj: =====
+"andexp09" (ctj)
+and
+	"xor09" (dsc)
+	"orexp08" (nwf)
+===== This is ctp: =====
+"andexp27" (ctp)
+and
+	"xor28" (kdt)
+	"orexp27" (kgr)
+===== This is cwd: =====
+"orexp09" (cwd)
+or
+	"and09" (tpp)
+	"andexp09" (ctj)
+===== This is dbr: =====
+"andexp34" (dbr)
+and
+	"xor35" (gmv)
+	"orexp34" (vfn)
+===== This is dhk: =====
+"and29" (dhk)
+and
+	"x29" (x29)
+	"y29" (y29)
+===== This is dks: =====
+"orexp14" (dks)
+or
+	"and14" (bvm)
+	"andexp14" (mts)
+===== This is dmf: =====
+"orexp19" (dmf)
+or
+	"and19" (sgm)
+	"andexp18" (mhj)
+===== This is dnf: =====
+"andexp41" (dnf)
+and
+	"xor42" (qcn)
+	"orexp41" (msr)
+===== This is dnk: =====
+"xor03" (dnk)
+xor
+	"x03" (x03)
+	"y03" (y03)
+===== This is dqg: =====
+"orexp38" (dqg)
+or
+	"xor38" (btb)
+	"andexp37" (jhw)
+===== This is dqj: =====
+"andexp36" (dqj)
+and
+	"xor37" (stv)
+	"orexp36" (bjh)
+===== This is dqs: =====
+"andexp29" (dqs)
+and
+	"xor30" (rvp)
+	"orexp29" (knj)
+===== This is drf: =====
+"xor19" (drf)
+xor
+	"x19" (x19)
+	"y19" (y19)
+===== This is dsc: =====
+"xor09" (dsc)
+xor
+	"x09" (x09)
+	"y09" (y09)
+===== This is dwn: =====
+"orexp25" (dwn)
+or
+	"and25" (mnf)
+	"andexp24" (gdv)
+===== This is fbg: =====
+"orexp12" (fbg)
+or
+	"and12" (fjp)
+	"andexp12" (njt)
+===== This is fcp: =====
+"andexp21" (fcp)
+and
+	"xor22" (njp)
+	"orexp21" (bdk)
+===== This is fdc: =====
+"and31" (fdc)
+and
+	"x31" (x31)
+	"y31" (y31)
+===== This is ffv: =====
+"and33" (ffv)
+and
+	"x33" (x33)
+	"y33" (y33)
+===== This is fgm: =====
+"andexp39" (fgm)
+and
+	"xor40" (fts)
+	"orexp39" (qrk)
+===== This is fhv: =====
+"and08" (fhv)
+and
+	"x08" (x08)
+	"y08" (y08)
+===== This is fjp: =====
+"and12" (fjp)
+and
+	"x12" (x12)
+	"y12" (y12)
+===== This is fns: =====
+"andexp19" (fns)
+and
+	"xor20" (ckr)
+	"orexp19" (dmf)
+===== This is fnt: =====
+"andexp11" (fnt)
+and
+	"xor11" (hwk)
+	"orexp10" (jsw)
+===== This is fqb: =====
+"and05" (fqb)
+and
+	"x05" (x05)
+	"y05" (y05)
+===== This is frg: =====
+"and23" (frg)
+and
+	"x23" (x23)
+	"y23" (y23)
+===== This is fts: =====
+"xor40" (fts)
+xor
+	"x40" (x40)
+	"y40" (y40)
+===== This is fvf: =====
+"and21" (fvf)
+and
+	"x21" (x21)
+	"y21" (y21)
+===== This is fwm: =====
+"xor18" (fwm)
+xor
+	"x18" (x18)
+	"y18" (y18)
+===== This is gdv: =====
+"andexp24" (gdv)
+and
+	"xor25" (nhb)
+	"orexp24" (tcr)
+===== This is gfg: =====
+"and11" (gfg)
+and
+	"x11" (x11)
+	"y11" (y11)
+===== This is ggg: =====
+"xor04" (ggg)
+xor
+	"x04" (x04)
+	"y04" (y04)
+===== This is gjh: =====
+"andexp25" (gjh)
+and
+	"xor26" (bmw)
+	"orexp25" (dwn)
+===== This is gjj: =====
+"xor34" (gjj)
+xor
+	"x34" (x34)
+	"y34" (y34)
+===== This is gmv: =====
+"xor35" (gmv)
+xor
+	"x35" (x35)
+	"y35" (y35)
+===== This is gtq: =====
+"andexp23" (gtq)
+and
+	"xor24" (hqn)
+	"orexp23" (pkh)
+===== This is gwg: =====
+"orexp03" (gwg)
+or
+	"and03" (kfr)
+	"andexp03" (wjq)
+===== This is gwk: =====
+"andexp38" (gwk)
+and
+	"xor39" (kjv)
+	"orexp38" (dqg)
+===== This is hbk: =====
+"xor13" (hbk)
+xor
+	"x13" (x13)
+	"y13" (y13)
+===== This is hdt: =====
+"orexp42" (hdt)
+or
+	"and42" (hqj)
+	"andexp41" (dnf)
+===== This is hgw: =====
+"andexp04" (hgw)
+and
+	"xor04" (ggg)
+	"orexp03" (gwg)
+===== This is hkn: =====
+"and34" (hkn)
+and
+	"x34" (x34)
+	"y34" (y34)
+===== This is hmc: =====
+"orexp33" (hmc)
+or
+	"and33" (ffv)
+	"andexp32" (knp)
+===== This is hqj: =====
+"and42" (hqj)
+and
+	"x42" (x42)
+	"y42" (y42)
+===== This is hqn: =====
+"xor24" (hqn)
+xor
+	"x24" (x24)
+	"y24" (y24)
+===== This is hrn: =====
+"orexp31" (hrn)
+or
+	"and31" (fdc)
+	"andexp30" (bgk)
+===== This is hvq: =====
+"andexp26" (hvq)
+and
+	"xor27" (cpc)
+	"orexp26" (ktr)
+===== This is hwk: =====
+"xor11" (hwk)
+xor
+	"x11" (x11)
+	"y11" (y11)
+===== This is jhw: =====
+"andexp37" (jhw)
+and
+	"and38" (mwp)
+	"orexp37" (tsk)
+===== This is jjg: =====
+"and04" (jjg)
+and
+	"x04" (x04)
+	"y04" (y04)
+===== This is jjv: =====
+"andexp01" (jjv)
+and
+	"xor01" (kjh)
+	"and00" (kkc)
+===== This is jkg: =====
+"xor21" (jkg)
+xor
+	"x21" (x21)
+	"y21" (y21)
+===== This is jpd: =====
+"and26" (jpd)
+and
+	"x26" (x26)
+	"y26" (y26)
+===== This is jpt: =====
+"orexp01" (jpt)
+or
+	"and01" (npn)
+	"andexp01" (jjv)
+===== This is jrk: =====
+"andexp05" (jrk)
+and
+	"xor05" (skf)
+	"orexp04" (qph)
+===== This is jsw: =====
+"orexp10" (jsw)
+or
+	"and10" (qwc)
+	"andexp10" (qtk)
+===== This is jvk: =====
+"xor02" (jvk)
+xor
+	"x02" (x02)
+	"y02" (y02)
+===== This is kbj: =====
+"and15" (kbj)
+and
+	"x15" (x15)
+	"y15" (y15)
+===== This is kbw: =====
+"orexp15" (kbw)
+or
+	"and15" (kbj)
+	"andexp15" (ttr)
+===== This is kdt: =====
+"xor28" (kdt)
+xor
+	"x28" (x28)
+	"y28" (y28)
+===== This is kfr: =====
+"and03" (kfr)
+and
+	"x03" (x03)
+	"y03" (y03)
+===== This is kgr: =====
+"orexp27" (kgr)
+or
+	"and27" (vvc)
+	"andexp26" (hvq)
+===== This is kjh: =====
+"xor01" (kjh)
+xor
+	"x01" (x01)
+	"y01" (y01)
+===== This is kjv: =====
+"xor39" (kjv)
+xor
+	"x39" (x39)
+	"y39" (y39)
+===== This is kkc: =====
+"and00" (kkc)
+and
+	"x00" (x00)
+	"y00" (y00)
+===== This is kkf: =====
+"orexp22" (kkf)
+or
+	"and22" (tgj)
+	"andexp21" (fcp)
+===== This is knj: =====
+"orexp29" (knj)
+or
+	"and29" (dhk)
+	"andexp28" (ntq)
+===== This is knp: =====
+"andexp32" (knp)
+and
+	"xor33" (snw)
+	"orexp32" (kpd)
+===== This is kpd: =====
+"orexp32" (kpd)
+or
+	"and32" (wsv)
+	"andexp31" (wqs)
+===== This is kqt: =====
+"xor31" (kqt)
+xor
+	"x31" (x31)
+	"y31" (y31)
+===== This is krw: =====
+"orexp11" (krw)
+or
+	"and11" (gfg)
+	"andexp11" (fnt)
+===== This is ksj: =====
+"and18" (ksj)
+and
+	"x18" (x18)
+	"y18" (y18)
+===== This is ktr: =====
+"orexp26" (ktr)
+or
+	"and26" (jpd)
+	"andexp25" (gjh)
+===== This is mhj: =====
+"andexp18" (mhj)
+and
+	"xor19" (drf)
+	"orexp18" (mtd)
+===== This is mnf: =====
+"and25" (mnf)
+and
+	"x25" (x25)
+	"y25" (y25)
+===== This is mng: =====
+"orexp40" (mng)
+or
+	"and40" (rnk)
+	"andexp39" (fgm)
+===== This is mpn: =====
+"xor06" (mpn)
+xor
+	"x06" (x06)
+	"y06" (y06)
+===== This is msh: =====
+"and44" (msh)
+and
+	"x44" (x44)
+	"y44" (y44)
+===== This is msr: =====
+"orexp41" (msr)
+or
+	"and41" (rpp)
+	"andexp40" (wcp)
+===== This is msw: =====
+"orexp28" (msw)
+or
+	"and28" (rjr)
+	"andexp27" (ctp)
+===== This is mtd: =====
+"orexp18" (mtd)
+or
+	"and18" (ksj)
+	"andexp17" (wbw)
+===== This is mts: =====
+"andexp14" (mts)
+and
+	"xor14" (qmm)
+	"orexp13" (std)
+===== This is mwp: =====
+"and38" (mwp)
+and
+	"x38" (x38)
+	"y38" (y38)
+===== This is ncw: =====
+"orexp06" (ncw)
+or
+	"and06" (wgj)
+	"andexp06" (qth)
+===== This is nfs: =====
+"orexp07" (nfs)
+or
+	"and07" (sqm)
+	"andexp07" (qnk)
+===== This is nhb: =====
+"xor25" (nhb)
+xor
+	"x25" (x25)
+	"y25" (y25)
+===== This is njp: =====
+"xor22" (njp)
+xor
+	"x22" (x22)
+	"y22" (y22)
+===== This is njr: =====
+"xor44" (njr)
+xor
+	"x44" (x44)
+	"y44" (y44)
+===== This is njt: =====
+"andexp12" (njt)
+and
+	"xor12" (wnm)
+	"orexp11" (krw)
+===== This is nmr: =====
+"orexp30" (nmr)
+or
+	"z29" (rdg)
+	"andexp29" (dqs)
+===== This is nnt: =====
+"andexp02" (nnt)
+and
+	"xor02" (jvk)
+	"orexp01" (jpt)
+===== This is npk: =====
+"andexp13" (npk)
+and
+	"xor13" (hbk)
+	"orexp12" (fbg)
+===== This is npn: =====
+"and01" (npn)
+and
+	"x01" (x01)
+	"y01" (y01)
+===== This is nqq: =====
+"andexp35" (nqq)
+and
+	"xor36" (rbm)
+	"orexp35" (tjp)
+===== This is ntq: =====
+"andexp28" (ntq)
+and
+	"xor29" (qsg)
+	"orexp28" (msw)
+===== This is nvs: =====
+"and02" (nvs)
+and
+	"x02" (x02)
+	"y02" (y02)
+===== This is nwf: =====
+"orexp08" (nwf)
+or
+	"and08" (fhv)
+	"andexp08" (rrh)
+===== This is nws: =====
+"andexp42" (nws)
+and
+	"xor43" (wbk)
+	"orexp42" (hdt)
+===== This is pbr: =====
+"and35" (pbr)
+and
+	"x35" (x35)
+	"y35" (y35)
+===== This is pbw: =====
+"xor23" (pbw)
+xor
+	"x23" (x23)
+	"y23" (y23)
+===== This is pkh: =====
+"orexp23" (pkh)
+or
+	"and23" (frg)
+	"z22" (rmj)
+===== This is pwm: =====
+"xor10" (pwm)
+xor
+	"x10" (x10)
+	"y10" (y10)
+===== This is qcn: =====
+"xor42" (qcn)
+xor
+	"x42" (x42)
+	"y42" (y42)
+===== This is qff: =====
+"xor15" (qff)
+xor
+	"x15" (x15)
+	"y15" (y15)
+===== This is qhq: =====
+"andexp17" (qhq)
+and
+	"xor17" (wvj)
+	"orexp16" (qwg)
+===== This is qmm: =====
+"xor14" (qmm)
+xor
+	"x14" (x14)
+	"y14" (y14)
+===== This is qnk: =====
+"andexp07" (qnk)
+and
+	"xor07" (btr)
+	"orexp06" (ncw)
+===== This is qnr: =====
+"orexp05" (qnr)
+or
+	"and05" (fqb)
+	"andexp05" (jrk)
+===== This is qph: =====
+"orexp04" (qph)
+or
+	"and04" (jjg)
+	"andexp04" (hgw)
+===== This is qrk: =====
+"orexp39" (qrk)
+or
+	"and39" (rwb)
+	"andexp38" (gwk)
+===== This is qsg: =====
+"xor29" (qsg)
+xor
+	"x29" (x29)
+	"y29" (y29)
+===== This is qth: =====
+"andexp06" (qth)
+and
+	"xor06" (mpn)
+	"orexp05" (qnr)
+===== This is qtk: =====
+"andexp10" (qtk)
+and
+	"xor10" (pwm)
+	"orexp09" (cwd)
+===== This is qvg: =====
+"xor41" (qvg)
+xor
+	"x41" (x41)
+	"y41" (y41)
+===== This is qwc: =====
+"and10" (qwc)
+and
+	"x10" (x10)
+	"y10" (y10)
+===== This is qwd: =====
+"and16" (qwd)
+and
+	"x16" (x16)
+	"y16" (y16)
+===== This is qwg: =====
+"orexp16" (qwg)
+or
+	"and16" (qwd)
+	"andexp16" (swm)
+===== This is rbm: =====
+"xor36" (rbm)
+xor
+	"x36" (x36)
+	"y36" (y36)
+===== This is rdg: =====
+"z29" (rdg)
+xor
+	"xor30" (rvp)
+	"orexp29" (knj)
+===== This is rfc: =====
+"andexp43" (rfc)
+and
+	"xor44" (njr)
+	"orexp43" (tkm)
+===== This is rjr: =====
+"and28" (rjr)
+and
+	"x28" (x28)
+	"y28" (y28)
+===== This is rmj: =====
+"z22" (rmj)
+xor
+	"xor23" (pbw)
+	"orexp22" (kkf)
+===== This is rnk: =====
+"and40" (rnk)
+and
+	"x40" (x40)
+	"y40" (y40)
+===== This is rpp: =====
+"and41" (rpp)
+and
+	"x41" (x41)
+	"y41" (y41)
+===== This is rrh: =====
+"andexp08" (rrh)
+and
+	"xor08" (cfd)
+	"orexp07" (nfs)
+===== This is rsm: =====
+"and13" (rsm)
+and
+	"x13" (x13)
+	"y13" (y13)
+===== This is rvp: =====
+"xor30" (rvp)
+xor
+	"x30" (x30)
+	"y30" (y30)
+===== This is rwb: =====
+"and39" (rwb)
+and
+	"x39" (x39)
+	"y39" (y39)
+===== This is scr: =====
+"and43" (scr)
+and
+	"x43" (x43)
+	"y43" (y43)
+===== This is sgm: =====
+"and19" (sgm)
+and
+	"x19" (x19)
+	"y19" (y19)
+===== This is skf: =====
+"xor05" (skf)
+xor
+	"x05" (x05)
+	"y05" (y05)
+===== This is snw: =====
+"xor33" (snw)
+xor
+	"x33" (x33)
+	"y33" (y33)
+===== This is sqm: =====
+"and07" (sqm)
+and
+	"x07" (x07)
+	"y07" (y07)
+===== This is std: =====
+"orexp13" (std)
+or
+	"and13" (rsm)
+	"andexp13" (npk)
+===== This is stv: =====
+"xor37" (stv)
+xor
+	"x37" (x37)
+	"y37" (y37)
+===== This is swm: =====
+"andexp16" (swm)
+and
+	"xor16" (wnf)
+	"orexp15" (kbw)
+===== This is tcr: =====
+"orexp24" (tcr)
+or
+	"and24" (vjw)
+	"andexp23" (gtq)
+===== This is tfc: =====
+"and17" (tfc)
+and
+	"x17" (x17)
+	"y17" (y17)
+===== This is tgj: =====
+"and22" (tgj)
+and
+	"x22" (x22)
+	"y22" (y22)
+===== This is tjp: =====
+"orexp35" (tjp)
+or
+	"and35" (pbr)
+	"andexp34" (dbr)
+===== This is tkm: =====
+"orexp43" (tkm)
+or
+	"and43" (scr)
+	"andexp42" (nws)
+===== This is tmf: =====
+"andexp33" (tmf)
+and
+	"xor34" (gjj)
+	"orexp33" (hmc)
+===== This is tpp: =====
+"and09" (tpp)
+and
+	"x09" (x09)
+	"y09" (y09)
+===== This is tsk: =====
+"orexp37" (tsk)
+or
+	"and37" (bqj)
+	"andexp36" (dqj)
+===== This is ttr: =====
+"andexp15" (ttr)
+and
+	"xor15" (qff)
+	"orexp14" (dks)
+===== This is vfn: =====
+"orexp34" (vfn)
+or
+	"and34" (hkn)
+	"andexp33" (tmf)
+===== This is vfw: =====
+"and36" (vfw)
+and
+	"x36" (x36)
+	"y36" (y36)
+===== This is vjw: =====
+"and24" (vjw)
+and
+	"x24" (x24)
+	"y24" (y24)
+===== This is vvc: =====
+"and27" (vvc)
+and
+	"x27" (x27)
+	"y27" (y27)
+===== This is wbk: =====
+"xor43" (wbk)
+xor
+	"x43" (x43)
+	"y43" (y43)
+===== This is wbw: =====
+"andexp17" (wbw)
+and
+	"xor18" (fwm)
+	"z17" (cmv)
+===== This is wcj: =====
+"orexp02" (wcj)
+or
+	"and02" (nvs)
+	"andexp02" (nnt)
+===== This is wcp: =====
+"andexp40" (wcp)
+and
+	"xor41" (qvg)
+	"orexp40" (mng)
+===== This is wgj: =====
+"and06" (wgj)
+and
+	"x06" (x06)
+	"y06" (y06)
+===== This is wjq: =====
+"andexp03" (wjq)
+and
+	"xor03" (dnk)
+	"orexp02" (wcj)
+===== This is wnf: =====
+"xor16" (wnf)
+xor
+	"x16" (x16)
+	"y16" (y16)
+===== This is wnm: =====
+"xor12" (wnm)
+xor
+	"x12" (x12)
+	"y12" (y12)
+===== This is wqs: =====
+"andexp31" (wqs)
+and
+	"xor32" (bfj)
+	"orexp31" (hrn)
+===== This is wsv: =====
+"and32" (wsv)
+and
+	"x32" (x32)
+	"y32" (y32)
+===== This is wvj: =====
+"xor17" (wvj)
+xor
+	"x17" (x17)
+	"y17" (y17)
+Skipping x00
+Skipping x01
+Skipping x02
+Skipping x03
+Skipping x04
+Skipping x05
+Skipping x06
+Skipping x07
+Skipping x08
+Skipping x09
+Skipping x10
+Skipping x11
+Skipping x12
+Skipping x13
+Skipping x14
+Skipping x15
+Skipping x16
+Skipping x17
+Skipping x18
+Skipping x19
+Skipping x20
+Skipping x21
+Skipping x22
+Skipping x23
+Skipping x24
+Skipping x25
+Skipping x26
+Skipping x27
+Skipping x28
+Skipping x29
+Skipping x30
+Skipping x31
+Skipping x32
+Skipping x33
+Skipping x34
+Skipping x35
+Skipping x36
+Skipping x37
+Skipping x38
+Skipping x39
+Skipping x40
+Skipping x41
+Skipping x42
+Skipping x43
+Skipping x44
+Skipping y00
+Skipping y01
+Skipping y02
+Skipping y03
+Skipping y04
+Skipping y05
+Skipping y06
+Skipping y07
+Skipping y08
+Skipping y09
+Skipping y10
+Skipping y11
+Skipping y12
+Skipping y13
+Skipping y14
+Skipping y15
+Skipping y16
+Skipping y17
+Skipping y18
+Skipping y19
+Skipping y20
+Skipping y21
+Skipping y22
+Skipping y23
+Skipping y24
+Skipping y25
+Skipping y26
+Skipping y27
+Skipping y28
+Skipping y29
+Skipping y30
+Skipping y31
+Skipping y32
+Skipping y33
+Skipping y34
+Skipping y35
+Skipping y36
+Skipping y37
+Skipping y38
+Skipping y39
+Skipping y40
+Skipping y41
+Skipping y42
+Skipping y43
+Skipping y44
+===== This is z00: =====
+"xor00" (z00)
+xor
+	"x00" (x00)
+	"y00" (y00)
+===== This is z01: =====
+"z01" (z01)
+xor
+	"xor01" (kjh)
+	"and00" (kkc)
+===== This is z02: =====
+"z02" (z02)
+xor
+	"xor02" (jvk)
+	"orexp01" (jpt)
+===== This is z03: =====
+"z03" (z03)
+xor
+	"xor03" (dnk)
+	"orexp02" (wcj)
+===== This is z04: =====
+"z04" (z04)
+xor
+	"xor04" (ggg)
+	"orexp03" (gwg)
+===== This is z05: =====
+"z05" (z05)
+xor
+	"xor05" (skf)
+	"orexp04" (qph)
+===== This is z06: =====
+"z06" (z06)
+xor
+	"xor06" (mpn)
+	"orexp05" (qnr)
+===== This is z07: =====
+"z07" (z07)
+xor
+	"xor07" (btr)
+	"orexp06" (ncw)
+===== This is z08: =====
+"z08" (z08)
+xor
+	"xor08" (cfd)
+	"orexp07" (nfs)
+===== This is z09: =====
+"z09" (z09)
+xor
+	"xor09" (dsc)
+	"orexp08" (nwf)
+===== This is z10: =====
+"z10" (z10)
+xor
+	"xor10" (pwm)
+	"orexp09" (cwd)
+===== This is z11: =====
+"z11" (z11)
+xor
+	"xor11" (hwk)
+	"orexp10" (jsw)
+===== This is z12: =====
+"z12" (z12)
+xor
+	"xor12" (wnm)
+	"orexp11" (krw)
+===== This is z13: =====
+"z13" (z13)
+xor
+	"xor13" (hbk)
+	"orexp12" (fbg)
+===== This is z14: =====
+"z14" (z14)
+xor
+	"xor14" (qmm)
+	"orexp13" (std)
+===== This is z15: =====
+"z15" (z15)
+xor
+	"xor15" (qff)
+	"orexp14" (dks)
+===== This is z16: =====
+"z16" (z16)
+xor
+	"xor16" (wnf)
+	"orexp15" (kbw)
+===== This is z17: =====
+"orexp17" (z17)
+or
+	"and17" (tfc)
+	"andexp17" (qhq)
+===== This is z18: =====
+"z17" (z18)
+xor
+	"xor18" (fwm)
+	"z17" (cmv)
+===== This is z19: =====
+"z18" (z19)
+xor
+	"xor19" (drf)
+	"orexp18" (mtd)
+===== This is z20: =====
+"z19" (z20)
+xor
+	"xor20" (ckr)
+	"orexp19" (dmf)
+===== This is z21: =====
+"z20" (z21)
+xor
+	"xor21" (jkg)
+	"orexp20" (bwp)
+===== This is z22: =====
+"z21" (z22)
+xor
+	"xor22" (njp)
+	"orexp21" (bdk)
+===== This is z23: =====
+"andexp22" (z23)
+and
+	"xor23" (pbw)
+	"orexp22" (kkf)
+===== This is z24: =====
+"z23" (z24)
+xor
+	"xor24" (hqn)
+	"orexp23" (pkh)
+===== This is z25: =====
+"z24" (z25)
+xor
+	"xor25" (nhb)
+	"orexp24" (tcr)
+===== This is z26: =====
+"z25" (z26)
+xor
+	"xor26" (bmw)
+	"orexp25" (dwn)
+===== This is z27: =====
+"z26" (z27)
+xor
+	"xor27" (cpc)
+	"orexp26" (ktr)
+===== This is z28: =====
+"z27" (z28)
+xor
+	"xor28" (kdt)
+	"orexp27" (kgr)
+===== This is z29: =====
+"z28" (z29)
+xor
+	"xor29" (qsg)
+	"orexp28" (msw)
+===== This is z30: =====
+"and30" (z30)
+and
+	"x30" (x30)
+	"y30" (y30)
+===== This is z31: =====
+"z30" (z31)
+xor
+	"xor31" (kqt)
+	"orexp30" (nmr)
+===== This is z32: =====
+"z31" (z32)
+xor
+	"xor32" (bfj)
+	"orexp31" (hrn)
+===== This is z33: =====
+"z32" (z33)
+xor
+	"xor33" (snw)
+	"orexp32" (kpd)
+===== This is z34: =====
+"z33" (z34)
+xor
+	"xor34" (gjj)
+	"orexp33" (hmc)
+===== This is z35: =====
+"z34" (z35)
+xor
+	"xor35" (gmv)
+	"orexp34" (vfn)
+===== This is z36: =====
+"z35" (z36)
+xor
+	"xor36" (rbm)
+	"orexp35" (tjp)
+===== This is z37: =====
+"z36" (z37)
+xor
+	"xor37" (stv)
+	"orexp36" (bjh)
+===== This is z38: =====
+"z37" (z38)
+xor
+	"and38" (mwp)
+	"orexp37" (tsk)
+===== This is z39: =====
+"z38" (z39)
+xor
+	"xor39" (kjv)
+	"orexp38" (dqg)
+===== This is z40: =====
+"z39" (z40)
+xor
+	"xor40" (fts)
+	"orexp39" (qrk)
+===== This is z41: =====
+"z40" (z41)
+xor
+	"xor41" (qvg)
+	"orexp40" (mng)
+===== This is z42: =====
+"z41" (z42)
+xor
+	"xor42" (qcn)
+	"orexp41" (msr)
+===== This is z43: =====
+"z42" (z43)
+xor
+	"xor43" (wbk)
+	"orexp42" (hdt)
+===== This is z44: =====
+"z43" (z44)
+xor
+	"xor44" (njr)
+	"orexp43" (tkm)
+===== This is z45: =====
+"orexp44" (z45)
+or
+	"and44" (msh)
+	"andexp43" (rfc)
